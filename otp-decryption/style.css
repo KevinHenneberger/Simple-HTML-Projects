@@ -1,0 +1,17 @@
+label {
+    margin: 10px 0px;
+}
+
+textarea {
+    resize: none;
+    margin-bottom: 25px;
+}
+
+#output-text {
+    word-wrap: break-word;
+    width: 100%;
+}
+
+footer {
+    margin-top: 10px;
+}
